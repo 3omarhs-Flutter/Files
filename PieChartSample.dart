@@ -1,3 +1,5 @@
+// todo install fl_chart package or add this line to pubspec.yaml:  fl_chart: ^0.62.0 
+
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 
